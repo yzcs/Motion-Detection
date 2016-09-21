@@ -1,0 +1,3 @@
+D:\songyuan ji\image and computer vision-with c++&matlab\project\motion_src\vfw\bin\Release\Tiger.Video.VFW.dll
+D:\songyuan ji\image and computer vision-with c++&matlab\project\motion_src\vfw\obj\Release\vfw.csprojResolveAssemblyReference.cache
+D:\songyuan ji\image and computer vision-with c++&matlab\project\motion_src\vfw\obj\Release\Tiger.Video.VFW.dll

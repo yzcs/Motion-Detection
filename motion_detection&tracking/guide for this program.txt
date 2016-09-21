@@ -1,0 +1,5 @@
+the record size is : 1440x900 (laptop with 14.1")
+
+the record size is :1920x1200 (desktop with 25")
+
+the framework is 2.0

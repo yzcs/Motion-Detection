@@ -1,0 +1,6 @@
+D:\songyuan ji\image and computer vision-with c++&matlab\project\motion_src\dshow\bin\Release\dshow.dll
+D:\songyuan ji\image and computer vision-with c++&matlab\project\motion_src\dshow\obj\Release\dshow.csprojResolveAssemblyReference.cache
+D:\songyuan ji\image and computer vision-with c++&matlab\project\motion_src\dshow\obj\Release\dshow.dll
+C:\Users\fredji\Desktop\motion_src\dshow\bin\Release\dshow.dll
+C:\Users\fredji\Desktop\motion_src\dshow\obj\Release\dshow.csprojResolveAssemblyReference.cache
+C:\Users\fredji\Desktop\motion_src\dshow\obj\Release\dshow.dll

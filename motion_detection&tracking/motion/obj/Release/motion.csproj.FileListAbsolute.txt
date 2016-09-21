@@ -1,0 +1,65 @@
+D:\songyuan ji\image and computer vision-with c++&matlab\project\motion_src\motion\bin\Release\motion.exe
+D:\songyuan ji\image and computer vision-with c++&matlab\project\motion_src\motion\bin\Release\AForge.Imaging.dll
+D:\songyuan ji\image and computer vision-with c++&matlab\project\motion_src\motion\bin\Release\AForge.Math.dll
+D:\songyuan ji\image and computer vision-with c++&matlab\project\motion_src\motion\bin\Release\dshow.dll
+D:\songyuan ji\image and computer vision-with c++&matlab\project\motion_src\motion\bin\Release\Tiger.Video.VFW.dll
+D:\songyuan ji\image and computer vision-with c++&matlab\project\motion_src\motion\bin\Release\AForge.dll
+D:\songyuan ji\image and computer vision-with c++&matlab\project\motion_src\motion\obj\Release\motion.csprojResolveAssemblyReference.cache
+D:\songyuan ji\image and computer vision-with c++&matlab\project\motion_src\motion\obj\Release\motion.AboutForm.resources
+D:\songyuan ji\image and computer vision-with c++&matlab\project\motion_src\motion\obj\Release\motion.CameraWindow.resources
+D:\songyuan ji\image and computer vision-with c++&matlab\project\motion_src\motion\obj\Release\motion.CaptureDeviceForm.resources
+D:\songyuan ji\image and computer vision-with c++&matlab\project\motion_src\motion\obj\Release\motion.MainForm.resources
+D:\songyuan ji\image and computer vision-with c++&matlab\project\motion_src\motion\obj\Release\motion.URLForm.resources
+D:\songyuan ji\image and computer vision-with c++&matlab\project\motion_src\motion\obj\Release\motion.csproj.GenerateResource.Cache
+D:\songyuan ji\image and computer vision-with c++&matlab\project\motion_src\motion\obj\Release\motion.exe
+D:\songyuan ji\image and computer vision-with c++&matlab\project\motion_src\motion\obj\Release\motion.Properties.Resources.resources
+C:\Users\fredji\Desktop\project\motion_src\motion\obj\Release\motion.exe
+C:\Users\fredji\Desktop\project\motion_src\motion\bin\Release\motion.exe
+C:\Users\fredji\Desktop\project\motion_src\motion\bin\Release\AForge.Imaging.dll
+C:\Users\fredji\Desktop\project\motion_src\motion\bin\Release\AForge.Math.dll
+C:\Users\fredji\Desktop\project\motion_src\motion\bin\Release\dshow.dll
+C:\Users\fredji\Desktop\project\motion_src\motion\bin\Release\Tiger.Video.VFW.dll
+C:\Users\fredji\Desktop\project\motion_src\motion\bin\Release\AForge.dll
+C:\Users\fredji\Desktop\project\motion_src\motion\obj\Release\motion.csprojResolveAssemblyReference.cache
+C:\Users\fredji\Desktop\project\motion_src\motion\obj\Release\motion.AboutForm.resources
+C:\Users\fredji\Desktop\project\motion_src\motion\obj\Release\motion.CameraWindow.resources
+C:\Users\fredji\Desktop\project\motion_src\motion\obj\Release\motion.CaptureDeviceForm.resources
+C:\Users\fredji\Desktop\project\motion_src\motion\obj\Release\motion.MainForm.resources
+C:\Users\fredji\Desktop\project\motion_src\motion\obj\Release\motion.Properties.Resources.resources
+C:\Users\fredji\Desktop\project\motion_src\motion\obj\Release\motion.URLForm.resources
+C:\Users\fredji\Desktop\project\motion_src\motion\obj\Release\motion.csproj.GenerateResource.Cache
+C:\Users\fredji\Desktop\motion_src\motion\obj\Release\motion.exe
+C:\Users\fredji\Desktop\motion_src\motion\obj\Release\motion.csprojResolveAssemblyReference.cache
+C:\Users\fredji\Desktop\motion_src\motion\obj\Release\motion.AboutForm.resources
+C:\Users\fredji\Desktop\motion_src\motion\obj\Release\motion.CameraWindow.resources
+C:\Users\fredji\Desktop\motion_src\motion\obj\Release\motion.CaptureDeviceForm.resources
+C:\Users\fredji\Desktop\motion_src\motion\obj\Release\motion.MainForm.resources
+C:\Users\fredji\Desktop\motion_src\motion\obj\Release\motion.Properties.Resources.resources
+C:\Users\fredji\Desktop\motion_src\motion\obj\Release\motion.URLForm.resources
+C:\Users\fredji\Desktop\motion_src\motion\obj\Release\motion.csproj.GenerateResource.Cache
+C:\Users\fredji\Desktop\motion_src\motion\bin\Release\motion.exe
+C:\Users\fredji\Desktop\motion_src\motion\bin\Release\AForge.Imaging.dll
+C:\Users\fredji\Desktop\motion_src\motion\bin\Release\AForge.Math.dll
+C:\Users\fredji\Desktop\motion_src\motion\bin\Release\dshow.dll
+C:\Users\fredji\Desktop\motion_src\motion\bin\Release\Tiger.Video.VFW.dll
+C:\Users\fredji\Desktop\motion_src\motion\bin\Release\AForge.dll
+C:\Users\fredji\Desktop\motion_src\motion\obj\Release\motion.AboutBackgroundDifferenceForm.resources
+C:\Users\fredji\Desktop\motion_src\motion\obj\Release\motion.AboutFrameDifferenceForm.resources
+C:\Users\fredji\Desktop\motion_detection&tracking\motion\obj\Release\motion.exe
+C:\Users\fredji\Desktop\project\motion_detection&tracking\motion\obj\Release\motion.exe
+C:\Users\fredji\Desktop\project\motion_detection&tracking\motion\bin\Release\motion.exe
+C:\Users\fredji\Desktop\project\motion_detection&tracking\motion\bin\Release\AForge.Imaging.dll
+C:\Users\fredji\Desktop\project\motion_detection&tracking\motion\bin\Release\AForge.Math.dll
+C:\Users\fredji\Desktop\project\motion_detection&tracking\motion\bin\Release\dshow.dll
+C:\Users\fredji\Desktop\project\motion_detection&tracking\motion\bin\Release\Tiger.Video.VFW.dll
+C:\Users\fredji\Desktop\project\motion_detection&tracking\motion\bin\Release\AForge.dll
+C:\Users\fredji\Desktop\project\motion_detection&tracking\motion\obj\Release\motion.csprojResolveAssemblyReference.cache
+C:\Users\fredji\Desktop\project\motion_detection&tracking\motion\obj\Release\motion.AboutBackgroundDifferenceForm.resources
+C:\Users\fredji\Desktop\project\motion_detection&tracking\motion\obj\Release\motion.AboutForm.resources
+C:\Users\fredji\Desktop\project\motion_detection&tracking\motion\obj\Release\motion.AboutFrameDifferenceForm.resources
+C:\Users\fredji\Desktop\project\motion_detection&tracking\motion\obj\Release\motion.CameraWindow.resources
+C:\Users\fredji\Desktop\project\motion_detection&tracking\motion\obj\Release\motion.CaptureDeviceForm.resources
+C:\Users\fredji\Desktop\project\motion_detection&tracking\motion\obj\Release\motion.MainForm.resources
+C:\Users\fredji\Desktop\project\motion_detection&tracking\motion\obj\Release\motion.Properties.Resources.resources
+C:\Users\fredji\Desktop\project\motion_detection&tracking\motion\obj\Release\motion.URLForm.resources
+C:\Users\fredji\Desktop\project\motion_detection&tracking\motion\obj\Release\motion.csproj.GenerateResource.Cache
